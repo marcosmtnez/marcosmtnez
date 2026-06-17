@@ -12,7 +12,7 @@ Data Analysis • Machine Learning • Statistical Modeling • Business Analyti
 
 ## About Me
 
-I am currently pursuing a Bachelor's Degree in Data Science at Universidad Complutense de Madrid.
+I am currently pursuing a Degree in Data Science at Universidad Complutense de Madrid.
 
 My interests focus on Data Analysis, Machine Learning, Statistical Modeling and Business Analytics. I enjoy applying analytical techniques to transform data into actionable insights and solve real-world problems.
 
