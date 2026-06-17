@@ -5,18 +5,18 @@ Data Science Student at Universidad Complutense de Madrid
 </h3>
 
 <p align="center">
-Python • R • SQL • SAS • Machine Learning • Statistics
+Data Analysis • Machine Learning • Statistical Modeling • Business Analytics
 </p>
 
 ---
 
 ## About Me
 
-I am currently pursuing a B.Sc. in Data Science at Universidad Complutense de Madrid.
+I am currently pursuing a Bachelor's Degree in Data Science at Universidad Complutense de Madrid.
 
-My interests focus on Data Analysis, Machine Learning, Statistical Modeling, Business Analytics and Artificial Intelligence. I enjoy transforming data into actionable insights and applying analytical techniques to solve real-world problems.
+My interests focus on Data Analysis, Machine Learning, Statistical Modeling and Business Analytics. I enjoy applying analytical techniques to transform data into actionable insights and solve real-world problems.
 
-I am continuously developing my technical skills through academic projects, certifications and hands-on experience with analytical tools and programming languages.
+Alongside my academic training, I continuously develop my technical skills through certifications, personal projects and practical experience with analytical tools and programming languages.
 
 ---
 
@@ -36,9 +36,9 @@ I am continuously developing my technical skills through academic projects, cert
 <p>
 <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge">
 <img src="https://img.shields.io/badge/Statistical%20Modeling-2E8B57?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data%20Analysis-6A1B9A?style=for-the-badge">
 <img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge">
 <img src="https://img.shields.io/badge/Business%20Analytics-4CAF50?style=for-the-badge">
-<img src="https://img.shields.io/badge/Data%20Analysis-6A1B9A?style=for-the-badge">
 </p>
 
 ---
@@ -66,20 +66,32 @@ Expected Graduation: 2027
 
 ---
 
+## Certifications & Continuous Learning
 
-## GitHub Statistics
+- DataCamp Professional Certifications
+- SAS Academic Training
+- Applied Statistics and Machine Learning
+- Continuous Professional Development in Data Science
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcosmtnez&show_icons=true&hide_border=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmtnez&layout=compact&hide_border=true" />
-</p>
+---
+
+## Professional Interests
+
+I am particularly interested in roles related to:
+
+- Data Analytics
+- Business Intelligence
+- Machine Learning
+- Statistical Modeling
+- Sports Analytics
+- Data-Driven Strategy
 
 ---
 
 ## Connect
 
 <p>
-<a href="https://www.linkedin.com/in/marcos-mart%C3%ADnez-aguiar-521001400/?skipRedirect=true">
+<a href="https://www.linkedin.com/in/marcos-mart%C3%ADnez-aguiar-521001400/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
